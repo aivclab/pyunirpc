@@ -61,31 +61,31 @@
      <Compile Include="Assets\PyUniPlugin\Scripts\Test.cs" />
      <None Include="Assets\PyUniPlugin\Plugins\Newtonsoft.Json.xml" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/oliver/Unity/Editors/2019.2.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -265,13 +265,13 @@
  <HintPath>/home/oliver/Unity/Editors/2019.2.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="NetMQ">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/NetMQ.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/NetMQ.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="AsyncIO">
- <HintPath>/home/oliver/Projects/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/AsyncIO.dll</HintPath>
+ <HintPath>/home/oliver/Projects/pyuniclone/pyunirpc/UnityPackage/Assets/PyUniPlugin/Plugins/AsyncIO.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/home/oliver/Unity/Editors/2019.2.20f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
